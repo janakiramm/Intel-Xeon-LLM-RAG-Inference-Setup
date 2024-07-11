@@ -94,4 +94,3 @@ Replace the endpoints with your Intel Xeon machine IP.
 - Replace `your_username` and `your_intel_xeon_machine_ip` with your actual SSH username and the IP address of your Intel Xeon machine.
 - Ensure Docker is properly installed and running on your machine.
 - Make sure the downloaded model files are in the correct paths as specified in the Docker commands.
->>>>>>> 9c29946 (Initial Commit)
