@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Intel-Xeon-LLM-RAG-Inference-Setup
-This repository provides a comprehensive guide to setting up and running a LLM inference server optimized for Intel Xeon machines, with a focus on Retrieval Augmented Generation (RAG). The repository includes step-by-step instructions for configuring a Docker-based server environment and a Python client setup.
-=======
-
 # Intel Xeon LLM RAG Inference Setup
 
 This repository contains a comprehensive guide to set up and run LLM inference server, embeddings server, and a vector database using Docker and Python. The repository is divided into two main directories: `server` and `client`.
