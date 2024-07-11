@@ -38,7 +38,7 @@ ENTRYPOINT ["python3", "-m", "llama_cpp.server"]
 docker build -t llama-cpp-python-cpu .
 ```
 
-### 5. Download quantized Mistal 7B model
+### 5. Download quantized Mistral 7B model
 ```sh
 mkdir models
 wget -P models https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q4_K_M.gguf
